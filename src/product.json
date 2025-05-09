@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "price": "1000",
+      "name": "Iphone 16 Pro Max",
+      "img": "https://imgs.search.brave.com/br1Pf2SHhxmI7eAZIalMYdHT0GarQ6k43PcL-f6xBWU/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9mZG4y/LmdzbWFyZW5hLmNv/bS92di9iaWdwaWMv/YXBwbGUtaXBob25l/LTE2LXByby5qcGc"
+    },
+    {
+      "price": "5000",
+      "name": "Mac book pro",
+      "img": "https://imgs.search.brave.com/Torl5qXyo-IRFn1pMOGXGxoYIcuX8zvcUwvf3o3Onwg/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTQy/NTY1NTUwOS9waG90/by9hcHBsZS1tYWNi/b29rLXByby5qcGc_/cz02MTJ4NjEyJnc9/MCZrPTIwJmM9UXZ2/a3V4NHRVamdPblpJ/bmhSNkM4elFkcG54/X1lIUzRSaEtCSFoz/LW91TT0"
+    },
+    {
+      "price": "500",
+      "name": "Samsung s23",
+      "img": "https://imgs.search.brave.com/PvP072043WAJnms6HORQ3Ld4cp7gRxd37WxsZfD4_hM/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/c2Ftc3VuZ21vYmls/ZXByZXNzLmNvbS9m/aWxlLzZGQzc3OTI1/MzkzMThDMEM5QThF/NDVENTJGRjQ3RjFD/Q0I1NUE0ODY2OEMx/RUJBNTFCQUQzMzg5/QkZCNTYwOEZDNjI5/OUY5OUMyRjg2NDUx/RkY1OTA3OENGNkY5/MjcxQjM3RUREMTQ5/RUMzNjM2OEYwQkQ3/QjIwMUNBMEU4NDkx/ODk5NjIxMUFGM0FG/NTNDODY0MTIzMzUx/Njk3RTZDQjEwMzlF/N0UwNTcwMjdFQ0ZF/Nzc4RjQwMjA4OUNF/MTZGMDYzOEYyMDdE/NDlEODI3MUJDNjNB/NTgxMDNFQ0E0MDgz/MUU5NUFDMEU4OTdG/RTcwQkM5NEYyMzM1/MUEyODI4RjY5RjA0/NjY1ODA0Njk4MUMx/QTIwMUFBQkUwQTIz/RTZGMg.jpeg"
+    },
+    {
+      "price": "800",
+      "name": "Samsung s23 ultra",
+      "img": "https://imgs.search.brave.com/lIkB-2KygZO6pA5aLioZUz-UrozDUhHMA9gGw84xWsE/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9wbGF0/Zm9ybS50aGV2ZXJn/ZS5jb20vd3AtY29u/dGVudC91cGxvYWRz/L3NpdGVzLzIvY2hv/cnVzL3VwbG9hZHMv/Y2hvcnVzX2Fzc2V0/L2ZpbGUvMjQzOTY3/ODkvRFNDMDQxMDJf/cHJvY2Vzc2VkLmpw/Zz9xdWFsaXR5PTkw/JnN0cmlwPWFsbCZj/cm9wPTE2LjY3NSww/LDY2LjY1LDEwMCZ3/PTI0MDA"
+    },
+    {
+      "price": "400",
+      "name": "MI",
+      "img": "https://imgs.search.brave.com/5TAH56NY3etFe7hkhL0VoZb0pVjmGlJOvaA3zWiNCc8/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9mZG4y/LmdzbWFyZW5hLmNv/bS92di9iaWdwaWMv/eGlhb21pLW1pLTgt/bGl0ZS0uanBn"
+    }
+  ]
+}

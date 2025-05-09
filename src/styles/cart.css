@@ -1,0 +1,23 @@
+.cart {
+  padding: 24px;
+  display: flex;
+  justify-content: space-between;
+
+  img {
+    border-radius: 12px;
+    height: 50px;
+    width: 50px;
+    object-fit: cover;
+  }
+
+  .cta {
+    display: flex;
+    gap: 8px;
+    height: fit-content;
+    align-items: center;
+
+    button {
+      padding: 4px;
+    }
+  }
+}

@@ -1,0 +1,30 @@
+.header {
+  height: 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid gray;
+  margin-bottom: 10px;
+
+  .cart {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    gap: 16px;
+  }
+
+  button {
+    height: 40px;
+    width: 50px;
+  }
+}
+.product-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 24px;
+
+  img {
+    max-width: 200px;
+    max-height: 200px;
+  }
+}
